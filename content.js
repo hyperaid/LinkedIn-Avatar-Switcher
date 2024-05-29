@@ -3,7 +3,7 @@ let changeApplied = false;
 
 function replaceProfilePictures(imageData) {
     // Select all profile picture elements
-    const profilePictures = document.querySelectorAll('.feed-shared-actor__avatar img, .update-components-actor__avatar-image');
+    const profilePictures = document.querySelectorAll('.update-components-actor__avatar-image');
   
     // Loop through each profile picture element
     profilePictures.forEach(picture => {
