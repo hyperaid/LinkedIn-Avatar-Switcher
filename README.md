@@ -31,6 +31,10 @@ LinkedIn Profile Picture Changer is a Chrome extension that allows you to easily
 - **popup.html**: HTML file for the extension's popup interface.
 - **popup.js**: Script that handles user interaction in the popup and communicates with the content script.
 - **images/**: Directory containing icons for the extension.
+## Images
 
+Here is a screenshot of the application:
+
+![Screenshot](images/Screenshot (19).png)
 
 
