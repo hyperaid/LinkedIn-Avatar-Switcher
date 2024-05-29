@@ -36,7 +36,9 @@ LinkedIn Profile Picture Changer is a Chrome extension that allows you to easily
 Here is a screenshot of the application:
 
 
-Copy code
+ 
 <img src="images/Screenshot (19).png" alt="Alt text" width="500" height="300">
+<img src="images/Screenshot (20).png" alt="Alt text" width="500" height="300">
+
 
 
